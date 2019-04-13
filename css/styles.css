@@ -1,0 +1,13 @@
+.static{
+    border: thin solid green;
+    padding: 10px;
+    position: static;
+    margin-bottom: 30px;
+}
+
+.relative{
+    border: thin solid blue;
+    padding: 10px;
+    position: relative;
+
+}
